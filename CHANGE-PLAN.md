@@ -19,7 +19,7 @@ Originally developed at Bigpoint. Published here with Bigpoint's permission for 
 
 ## Planned changes
 
-- [ ] Tag and publish `v0.6.1` with the Release workflow.
+- [x] Tag and publish `v0.6.1` with the Release workflow.
 - [ ] Write a new UI line renderer as original code.
 
 ## Notes and ideas
