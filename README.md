@@ -22,7 +22,15 @@ In Unity: **Window > Package Manager > + > Add package from git URL**, then ente
 https://github.com/tea-spoons/ui-toolbox.git
 ```
 
-Pin a release by appending a tag, for example `#v0.5.2`.
+Pin a release by appending a tag, for example `#v0.6.0`.
+
+## Optional packages
+
+This package works on its own. It uses the packages below when your project has them (Unity detects them automatically) and simply leaves the related code out when it does not.
+
+| Package | Used for |
+|---|---|
+| uGUI (`com.unity.ugui`) | The whole package. Without it nothing is compiled. |
 
 ## Change plan
 

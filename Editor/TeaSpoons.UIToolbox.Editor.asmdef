@@ -1,16 +1,25 @@
 {
-    "name": "TeaSpoons.UIToolbox.Editor",
-    "rootNamespace": "TeaSpoons.UIToolbox.Editor",
-    "references": [
-        "TeaSpoons.UIToolbox"
-    ],
-    "optionalUnityReferences": [],
-    "includePlatforms": [
-        "Editor"
-    ],
-    "excludePlatforms": [],
-    "allowUnsafeCode": false,
-    "overrideReferences": false,
-    "autoReferenced": true,
-    "defineConstraints": []
+  "name": "TeaSpoons.UIToolbox.Editor",
+  "rootNamespace": "TeaSpoons.UIToolbox.Editor",
+  "references": [
+    "TeaSpoons.UIToolbox"
+  ],
+  "optionalUnityReferences": [],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "autoReferenced": true,
+  "defineConstraints": [
+    "UGUI"
+  ],
+  "versionDefines": [
+    {
+      "name": "com.unity.ugui",
+      "expression": "1.0.0",
+      "define": "UGUI"
+    }
+  ]
 }

@@ -14,10 +14,11 @@ Originally developed at Bigpoint. Published here with Bigpoint's permission for 
 - The samples folder now uses Unity's hidden `Samples~` layout and is registered in `package.json`.
 - Removed the UI Line Renderer (adapted from community forum and gist code without a stated license).
 - The two UI shaders are based on Unity's built-in shaders (MIT); the notice is in `THIRD-PARTY-NOTICES.md`.
+- Made standalone: the runtime and editor assemblies are compiled only when uGUI is in the project.
 
 ## Planned changes
 
-- [ ] Tag and publish `v0.5.2` with the Release workflow.
+- [ ] Tag and publish `v0.6.0` with the Release workflow.
 - [ ] Write a new UI line renderer as original code.
 
 ## Notes and ideas
