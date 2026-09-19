@@ -1,0 +1,21 @@
+{
+  "name": "com.tea-spoons.ui-toolbox",
+  "version": "0.5.2",
+  "displayName": "UI Toolbox",
+  "description": "A collection of handy things for UGUI.",
+  "author": {
+    "name": "Muhammad Tarek Abdou",
+    "email": "muhammadtarekabdou@gmail.com",
+    "url": "https://github.com/MuhammadTarek0"
+  },
+  "samples": [
+    {
+      "displayName": "Blending Materials",
+      "description": "Sample: Blending Materials",
+      "path": "Samples~/Blending Materials"
+    }
+  ],
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "documentationUrl": "https://github.com/tea-spoons/ui-toolbox#readme",
+  "licensesUrl": "https://github.com/tea-spoons/ui-toolbox/blob/main/LICENSE.md"
+}
